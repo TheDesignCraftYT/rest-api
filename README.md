@@ -1,2 +1,2 @@
 # rest-api
-Just a little example rest api using [sparkjava](https://sparkjava.com/)
+Just a little example rest api using [sparkjava](https://sparkjava.com/).
